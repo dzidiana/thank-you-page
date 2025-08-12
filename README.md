@@ -1,1 +1,1 @@
-# thank-you-page
+# Thank you. Your request is received.
